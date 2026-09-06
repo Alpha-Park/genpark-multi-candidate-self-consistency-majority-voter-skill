@@ -1,0 +1,15 @@
+{
+  "name": "genpark-multi-candidate-self-consistency-majority-voter-skill",
+  "version": "1.0.0",
+  "description": "Self-consistency sampling aggregator, majority voting consensus engine, and semantic clusterer for reasoning verification.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "self-consistency",
+    "majority-vote",
+    "consensus",
+    "reasoning",
+    "genpark",
+    "mcp"
+  ]
+}
